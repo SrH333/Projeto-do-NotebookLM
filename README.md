@@ -6,7 +6,7 @@ Aplicação prática do Google NotebookLM como assistente de pesquisa com IA, fo
 Projeto simples para testar as funcionalidades de IA do Google NotebookLM.
 
 ## 📋 O que foi feito
-- Upload de artigos sobre programação.
+- Upload de Relatório Resumido com Mapa Mental e Infográfico.
 - Geração de resumos automáticos via IA.
 - Organização de tópicos principais dos textos.
 
